@@ -1,2 +1,4 @@
-# Carousel-Task-3
-A Carousel with left, right &amp; dots controls.
+# Carousel-Task 3
+A Carousel with left, right & dots controls.
+## HOW TO RUN THE CODE
+just click on GREEN BUTTON (WRITTEN CODE), 
